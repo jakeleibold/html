@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jakeleibold/html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakeleibold/html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animals Around the World</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <h1>The Brown Bear</h1>
+  <!-- A section that describes the brown bear -->
+  <p>The brown bear (Ursus arctos) is native to parts of northern Eurasia and North America. Its conservation status is currently "Least Concern." There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+  <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a>
+  <p>Here are some bear species:</p>
+  <ul>
+    <li>Arctos</li>
+    <li>Collarus</li>
+    <li>Horribilis</li>
+    <li>Nelsoni (extinct)</li>
+  </ul>
+  <p>The following countries have the largest populations of brown bears:</p>
+  <ol>
+    <li>Russia</li>
+    <li>United States</li>
+    <li>Canada</li>
+  </ol>
+  <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">
+    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /></a>
+</body> 
+</html>
